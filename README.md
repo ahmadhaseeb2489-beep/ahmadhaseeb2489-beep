@@ -13,13 +13,7 @@ Email Me 👉 ✉️ **ahmad.haseeb2489@gmail.com**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahmadhaseeb2489-beep&theme=dark&no-frame=true&no-bg=false&margin-w=4)
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ahmadhaseeb2489-beep&limit=5&theme=dark&combine_all_yearly_contributions=true)
